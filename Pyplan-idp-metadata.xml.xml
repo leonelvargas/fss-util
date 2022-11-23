@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" entityID="15h854inuwixo"><md:IDPSSODescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICqjCCAZKgAwIBAgIGAYPSezn/MA0GCSqGSIb3DQEBCwUAMBYxFDASBgNVBAMMC3N5bHZhbW8u
+Y29tMB4XDTIyMTAxMzE3NTM1NFoXDTI2MTAxMzE3NTM1NFowFjEUMBIGA1UEAwwLc3lsdmFtby5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDS1NdZOYJymV2ddsETl3+pNapXvLsq
+4oTTIj86TAMrhxUIATYl/g2FdyYESfpuZ0O4OnfixtJQC0vWmXcKRDEpt6UcOvE7ty77WIQY3spo
+nOXxKMyCq4n5JPNcMl4e5K5tn9gG+LFqumD9ATrQ6/GWxVPwFsyGnCBaqZaET81JB2OAZ1FCs12k
+0IEcUN3/T4E1IyB3P61ZIPca/PXE47EpreJ3cFXAYS0PfPl559wTFyds6yhye42ttlYxJcE0Cfa/
+Mb+ONuLSZ+gIAcNztfJKxKwLccJG7x+DeZrNJv+QTiI9ot65ryc1CnV50Y7FalPXiZ4hz9Hbz74Q
+0CLfmXJFAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAJNvGBKQPL4ySHnKWoTfk3kKY6g6Ba7jHWxr
+toMyvTY4PaBYpIb2D2ynSDXKwrQh5EPm1HNw21XoYcjG8zob44VAgT4YW2ZHLw93ur4Ayj5ze1gW
+rLHOnHYUd9Y9f/8JOsAGg4WNSJzYYMcl35JIFUo/tfP78fXgNHyM8i1G6yHELp2wgUJ3agF/t8bK
+N8z4L1OluEf91t2LpSK5LIzM2LAEQPLDnCNF+gQTyROyBXnVj1r4f3lX3WymnmL/+YuRpYvICiQ5
+x71jgeGH/ihhVcd36ivU+AoByZ+pZLpLI3JTkCiQ/dA/YWSVRXJLPaeGFVlUwfiFUcS0+qY7eohy
+bx4=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:X509SubjectName</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://portal.sso.sylvamo.com/IdPServlet?idp_id=15h854inuwixo"/></md:IDPSSODescriptor></md:EntityDescriptor>
